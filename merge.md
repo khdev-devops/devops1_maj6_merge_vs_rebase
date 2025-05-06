@@ -44,6 +44,7 @@
 Shaheera
 - Jonas
 Yasin
+Detelina
 
 ## Klar?
 
