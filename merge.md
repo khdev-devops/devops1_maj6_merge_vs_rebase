@@ -40,9 +40,12 @@
 - [Lägg till ditt namn här]
 Shaheera
 - Jonas
+Yasin
 Detelina
 - Marcus-nilsson
 - [Amine-B]
+- [Svetlana]
+- Gustaf
 
 ## Klar?
 
