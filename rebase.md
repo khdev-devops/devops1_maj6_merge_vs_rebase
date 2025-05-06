@@ -40,7 +40,7 @@ I denna delövning ska du öva på att använda `git rebase` för att integrera 
 
 ## Deltagarlista
 
-- [Lägg till ditt namn här]
+- [Nasir]
 
 ## Klar?
 
