@@ -38,6 +38,7 @@
 ## Deltagarlista
 
 - [Lägg till ditt namn här]
+   Jiadai
 
 ## Klar?
 
