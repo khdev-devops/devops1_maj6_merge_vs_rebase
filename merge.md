@@ -40,9 +40,15 @@
 - [Lägg till ditt namn här]
 Shaheera
 - Jonas
+<<<<<<< HEAD
 Yasin
 Detelina
 - [Amine-B]
+=======
+- Gustaf
+Detelina
+Detelina
+>>>>>>> b39308e867b9569bf5a9510aaf1946942817b0a4
 
 ## Klar?
 
