@@ -37,10 +37,21 @@
 
 ## Deltagarlista
 
+
+
+
+
+Yasin
 - [Lägg till ditt namn här]
 - Jonas
+Yasin
+Detelina
+- Marcus-nilsson
+- [Amine-B]
+- Gustaf
+Detelina
+Detelina
 - Jiadai
-
 ## Klar?
 
 När läraren visat hur git historiken ser ut med alla ändringar kan du gå vidare till [nästa delövning](./rebase.md).
