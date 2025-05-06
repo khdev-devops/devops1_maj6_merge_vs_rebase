@@ -37,7 +37,12 @@
 
 ## Deltagarlista
 
-- [Amine-B]
+- Jonas
+- Jiadai
+- Shaheera
+- Amine-B
+- Detelina
+- Klas
 
 ## Klar?
 
