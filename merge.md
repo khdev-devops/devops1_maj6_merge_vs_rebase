@@ -25,19 +25,25 @@
    git pull
    ```
 
-5. Mergea din branch in i `merge-demo`:
+5. Pusha din branch till GitHub:
    ```
-   git merge ditt-namn-merge
+   git push -u origin ditt-namn-merge
    ```
 
-6. Pusha upp ändringarna:
+6. Mergea din branch in i `merge-demo`:
    ```
+   git checkout merge-demo
+   git pull
+   git merge ditt-namn-merge
    git push
    ```
 
 ## Deltagarlista
 
-- YasinB
+- [Lägg till ditt namn här]
+Shaheera
+- Jonas
+Yasin
 
 ## Klar?
 
