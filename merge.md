@@ -37,7 +37,7 @@
 
 ## Deltagarlista
 
-- [Nasir]
+- [Lägg till ditt namn här]
 
 ## Klar?
 
