@@ -38,7 +38,8 @@
 ## Deltagarlista
 
 - [Lägg till ditt namn här]
--Jiadai
+- Jonas
+
 ## Klar?
 
 När läraren visat hur git historiken ser ut med alla ändringar kan du gå vidare till [nästa delövning](./rebase.md).
