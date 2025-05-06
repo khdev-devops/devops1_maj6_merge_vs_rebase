@@ -45,7 +45,7 @@ I denna delövning ska du öva på att använda `git rebase` för att integrera 
 - Jiadai
 - Shaheera
 - Detelina
-
+-Gustaf
 ## Klar?
 
 När läraren visat hur git historiken ser ut med alla ändringar är övningen avslutad. Tack!
