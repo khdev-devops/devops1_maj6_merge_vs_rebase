@@ -37,7 +37,7 @@
 
 ## Deltagarlista
 
-- [Lägg till ditt namn här]
+- [Svetlana]
 
 ## Klar?
 
