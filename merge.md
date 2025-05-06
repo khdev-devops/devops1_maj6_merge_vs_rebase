@@ -37,8 +37,14 @@
 
 ## Deltagarlista
 
+- [Lägg till ditt namn här]
+Shaheera
+- Jonas
+Yasin
+Detelina
 - [Amine-B]
 - [Svetlana]
+- Gustaf
 
 ## Klar?
 
