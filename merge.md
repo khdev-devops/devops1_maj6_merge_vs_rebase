@@ -37,8 +37,7 @@
 
 ## Deltagarlista
 
-- [Lägg till ditt namn här]
-- Jonas
+- YasinB
 
 ## Klar?
 
