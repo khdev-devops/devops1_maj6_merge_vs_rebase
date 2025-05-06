@@ -38,6 +38,7 @@
 ## Deltagarlista
 
 - [Amine-B]
+-Alma
 
 ## Klar?
 
