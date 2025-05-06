@@ -42,7 +42,7 @@
 - Shaheera
 - Amine-B
 - Detelina
-- Klas
+- Klas hej!!!
 
 ## Klar?
 

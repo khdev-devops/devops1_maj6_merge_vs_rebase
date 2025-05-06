@@ -46,6 +46,9 @@ I denna delövning ska du öva på att använda `git rebase` för att integrera 
 - Shaheera
 - Detelina
 -Gustaf
+
+Klas was here as well!
+
 ## Klar?
 
 När läraren visat hur git historiken ser ut med alla ändringar är övningen avslutad. Tack!
