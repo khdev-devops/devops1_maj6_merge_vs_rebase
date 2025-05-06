@@ -44,6 +44,7 @@ I denna delövning ska du öva på att använda `git rebase` för att integrera 
 - Jonas
 - Jiadai
 - Shaheera
+- Detelina
 
 ## Klar?
 
