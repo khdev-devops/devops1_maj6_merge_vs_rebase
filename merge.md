@@ -37,7 +37,21 @@
 
 ## Deltagarlista
 
+
+
+
+
+Yasin
+- [Lägg till ditt namn här]
+Shaheera
+- Jonas
+Yasin
+Detelina
+- Marcus-nilsson
 - [Amine-B]
+- Gustaf
+Detelina
+Detelina
 
 ## Klar?
 
