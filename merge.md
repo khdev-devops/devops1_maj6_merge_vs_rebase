@@ -44,6 +44,7 @@
 Shaheera
 - Jonas
 - Gustaf
+Detelina
 
 ## Klar?
 
