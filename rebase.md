@@ -42,6 +42,7 @@ I denna delövning ska du öva på att använda `git rebase` för att integrera 
 
 - [Lägg till ditt namn här]
 - Jonas
+Yasin
 
 ## Klar?
 
