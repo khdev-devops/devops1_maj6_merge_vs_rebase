@@ -45,6 +45,7 @@ Shaheera
 - Jonas
 - Gustaf
 Detelina
+Detelina
 
 ## Klar?
 
