@@ -38,7 +38,7 @@
 ## Deltagarlista
 
 - [Amine-B]
-
+- [yasin_k]
 ## Klar?
 
 När läraren visat hur git historiken ser ut med alla ändringar kan du gå vidare till [nästa delövning](./rebase.md).
