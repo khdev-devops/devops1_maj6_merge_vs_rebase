@@ -41,13 +41,14 @@
 
 
 
-Yasin
+
 - [Lägg till ditt namn här]
 - Jonas
 Yasin
 Detelina
 - Marcus-nilsson
-- [Amine-B]
+ [Amine-B]
+yasin_k
 - Gustaf
 Detelina
 Detelina
