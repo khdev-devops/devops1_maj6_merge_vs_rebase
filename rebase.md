@@ -41,6 +41,13 @@ I denna delövning ska du öva på att använda `git rebase` för att integrera 
 ## Deltagarlista
 
 - [Lägg till ditt namn här]
+- Jonas
+- Jiadai
+- Shaheera
+- Detelina
+-Gustaf
+
+Klas was here as well!
 
 ## Klar?
 

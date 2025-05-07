@@ -56,6 +56,13 @@ Detelina
 Alma
 -Alma
 
+- Jonas
+- Jiadai
+- Shaheera
+- Amine-B
+- Detelina
+- Klas hej!!!
+- [yasin_k]
 ## Klar?
 
 När läraren visat hur git historiken ser ut med alla ändringar kan du gå vidare till [nästa delövning](./rebase.md).
